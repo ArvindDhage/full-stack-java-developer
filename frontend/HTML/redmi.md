@@ -31,3 +31,10 @@ Ex:<h2>UnOrder list</h2>
 12.<form>  for form 
 13. lorem : add a demo test  text  <p>lorem10 </p>
 14. <href>  : Provide url     <a href ="google.com">Click Here</a>
+
+<!--dev block styling for parigraph -->
+<!--span block styling for single word -->
+
+
+non-semantic element : dev span 
+semantic element : <header> ,<nav>,<section>,<article>,<footer> etc
