@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+#test{
+    background-color:aquamarine;
+}
+
+.parent{
+    font-size:10px;
+    width: 500px;
+    height: 500px;
+    background-color:blue;
+
+}
+
+.child{
+   /* width:30%;
+    height:30%;*/
+
+    /* width:2em;
+    height:100vw;*/
+
+    width: 10rem;;
+    height:10rem;
+    background-color:rgb(0, 255, 47);
+
+}
+
+
+/* max-hight and max-width -- ak bar dak lana homework hai */
